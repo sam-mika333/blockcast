@@ -74,7 +74,7 @@ sudo systemctl restart docker
 
 ## 注册 Dashboard 控制台
 
-前往 [Blockcast 控制台](https://app.blockcast.network?referral-code=QCsKOk) 注册账户。
+前往 [Blockcast 控制台](https://app.blockcast.network?referral-code=cgk9M0) 注册账户。
 
 ---
 
@@ -83,7 +83,7 @@ sudo systemctl restart docker
 克隆仓库：
 
 ```bash
-git clone https://github.com/0xmoei/blockcast
+git clone https://github.com/sam-mika333/blockcast
 cd blockcast
 ```
 
