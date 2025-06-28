@@ -74,7 +74,7 @@ sudo systemctl restart docker
 
 ## 注册 Dashboard 控制台
 
-前往 [Blockcast 控制台](https://app.blockcast.network?referral-code=cgk9M0) 注册账户。
+前往 [Blockcast 控制台](https://app.blockcast.network?referral-code=lwmQvP) 注册账户。
 
 ---
 
