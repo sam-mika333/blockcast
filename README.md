@@ -19,6 +19,7 @@ Blockcast 是一个去中心化物理基础设施网络（DePIN），旨在通�
 - **加分项：支持多播（Multicast）的 IP 可获得额外积分！**
 - 即便是低配置硬件也可以参与运行（亲测1C1G vps就能运行）
 - 跑节点需要独立IP，所以需要购买vps [11美金每年VPS](https://my.racknerd.com/aff.php?aff=14724&pid=912)
+- 每个账号可以跑多个节点
 
 ---
 
