@@ -1,6 +1,8 @@
 # Blockcast 网络
 
 Blockcast 是一个去中心化物理基础设施网络（DePIN），旨在通过内容分发网络（CDN）利用闲置的网络带宽赚钱，底层由 Solana 提供支持。
+![image](https://github.com/user-attachments/assets/f44a7020-447a-4255-bb86-75232bd636aa)
+
 
 ---
 
