@@ -44,7 +44,7 @@ sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano aut
 ```
 
 ## 安装 Docker：
-### 方式一，安装 [1panel](https://1panel.cn/) 会自动安装docker，还可以方便的管理服务器
+### 方式一，安装 [1panel](https://1panel.cn/) 会自动安装docker，还可以方便的管理服务器（推荐）
 ```bash
 curl -sSL https://resource.1panel.pro/quick_start.sh -o quick_start.sh && bash quick_start.sh
 ```
